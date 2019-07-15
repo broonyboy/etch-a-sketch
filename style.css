@@ -1,0 +1,33 @@
+html {
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+#grid {
+   
+    background: #e8e8e8;
+   
+}
+
+.grid-row {
+   
+    border: solid black 1px;
+}
+
+.grid-column {
+    display: inline-block;
+    
+    border: solid black 1px;
+}
+
+.colorIt {
+    background-color: blue;
+}
