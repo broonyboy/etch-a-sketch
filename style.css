@@ -1,39 +1,27 @@
 html {
     height: 100%;
 }
-
 .container {
     display: flex;
     justify-content: center;
     align-items: center;
-    
 }
-
-
 .buttons {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     margin: 10px 0px 20px 0px;
 }
-
 #grid {
-   
     background: #e8e8e8;
-   
 }
-
 .grid-row {
-   
     border: solid black 1px;
 }
-
 .grid-column {
     display: inline-block;
-    
     border: solid black 1px;
 }
-
 .colorIt {
     background-color: blue;
 }
